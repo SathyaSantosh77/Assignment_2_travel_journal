@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Travel Journal</string>
+    <string name="action_add_entry">Add Entry</string>
+    <string name="action_view_entries">View Entries</string>
+</resources>
